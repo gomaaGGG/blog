@@ -1,0 +1,2 @@
+webpackJsonp([0x8f85a78c25d5],{340:function(t,a){t.exports={data:{markdownRemark:{html:"<p>This is my very post in Gatsby</p>",frontmatter:{path:"/post-one",title:"My First Gatsby Post",author:"Brad Traversy",date:"2018-04-09"}}},pathContext:{}}}});
+//# sourceMappingURL=path---post-one-b996a6f162c146f6b872.js.map
